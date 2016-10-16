@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>adsasdsadsd</h3><hr>
-
+<h3>바뀜</h3>
 </body>
 </html>
